@@ -130,10 +130,7 @@ class Game:
             print("fail")
             return True
         return False
-        # for row in self.game_state:
-        #     if row.__contains__(' '):
-        #         return False
-        # return True
+     
 
 
 if __name__ == '__main__':
